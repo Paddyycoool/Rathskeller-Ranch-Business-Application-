@@ -45,8 +45,7 @@ Here I record every good produced, harvested, or gathered at Rathskeller Ranch: 
 
 ---
 
-![image alt](https://private-user-images.githubusercontent.com/226732757/491257070-b8c007ac-b1f9-45d7-ae5a-c3e18ec0964e.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTgyMjQ1NjIsIm5iZiI6MTc1ODIyNDI2MiwicGF0aCI6Ii8yMjY3MzI3NTcvNDkxMjU3MDcwLWI4YzAwN2FjLWIxZjktNDVkNy1hZTVhLWMzZTE4ZWMwOTY0ZS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwOTE4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDkxOFQxOTM3NDJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1lNjNhODQyNjZjN2ZjMDcyYWEyOTExNDM2ZGQ1NWJjMjExNzliNjdhMmY2YjYzOGNkYzQxN2UzNzM2YmUzMDhhJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.6CelnD2_rad--7hKQ3Twu8sflBQ6kcVXZvAuNQkNwig)
-
+![image alt](https://github.com/Paddyycoool/Rathskeller-Ranch-Business-Application-/blob/main/rathskeller%20ranch%20poster%20use%20this%20one.png?raw=true)
 ---
 
 ## Inventory and Stock Management

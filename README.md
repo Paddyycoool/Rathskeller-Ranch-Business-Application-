@@ -10,6 +10,7 @@ In times when opportunity and danger ride side by side, I have learned the impor
 ---
 
 ![image alt](https://github.com/Paddyycoool/Rathskeller-Ranch-Business-Application-/blob/main/rathskeller_flyer_with_seal_bottomright_1.png?raw=true)
+
 ---
 
 ## Catalogue of Ranch Produce
@@ -46,6 +47,7 @@ Here I record every good produced, harvested, or gathered at Rathskeller Ranch: 
 ---
 
 ![image alt](https://github.com/Paddyycoool/Rathskeller-Ranch-Business-Application-/blob/main/rathskeller%20ranch%20poster%20use%20this%20one.png?raw=true)
+
 ---
 
 ## Inventory and Stock Management
@@ -282,9 +284,7 @@ As part of my effort to improve life and camaraderie at Rathskeller Ranch, i am 
 > Respectfully,  
 > The Proprietor, Rathskeller Ranch
 
-![image alt](https://private-user-images.githubusercontent.com/226732757/491253856-f38def85-8a3f-4495-95e3-fc2f3829d8cf.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTgyMjQxODEsIm5iZiI6MTc1ODIyMzg4MSwicGF0aCI6Ii8yMjY3MzI3NTcvNDkxMjUzODU2LWYzOGRlZjg1LThhM2YtNDQ5NS05NWUzLWZjMmYzODI5ZDhjZi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwOTE4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDkxOFQxOTMxMjFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02NTlkOGQ1YWUzYTgzZTY0NmUzMWJhYjhlZmQyN2UwOTQwZDk2YWM2OWIwNGZkOGIyOWFkYTE1ODFmY2I3OGIwJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.oLRFMsZXb5ecz2jb0MJdHceoeTP4kMpu-jQCmIK2ekE)
-
-
+![image alt](https://github.com/Paddyycoool/Rathskeller-Ranch-Business-Application-/blob/main/poker%20blackjack%20table.png?raw=true)
 
 ---
 
